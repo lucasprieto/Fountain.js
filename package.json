@@ -1,0 +1,8 @@
+{
+  "name": "Fountain.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasprieto/Fountain.js",
+  "author": "Lucas Prieto <lucas.prieto@dift.co>",
+  "license": "MIT"
+}
